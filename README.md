@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg" />
-  <img alt="Vinh Nguyen Trong — Innovating for people, building for the future. Construction Robotics &amp; AI. Student Research Assistant at ICoM, RWTH Aachen. Civil Engineering · MBA · Robotics at TUM." src="assets/banner.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=icom" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg?v=icom" />
+  <img alt="Vinh Nguyen Trong — Innovating for people, building for the future. Construction Robotics &amp; AI. Student Research Assistant at ICoM, RWTH Aachen. Civil Engineering · MBA · Robotics at TUM." src="assets/banner.svg?v=icom" width="100%" />
 </picture>
 
 <br />
