@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
   <title id="title">Innovating for people, building for the future.</title>
-  <desc id="desc">Vinh Nguyen Trong. Construction robotics. An architectural drawing shows a robotic arm placing a building block. Aachen, RWTH Aachen.</desc>
+  <desc id="desc">The Vinh Nguyen Trong. Construction Robotics and AI. Student Research Assistant at ICoM, RWTH Aachen. Civil Engineering, MBA, Robotics at TUM. An architectural drawing shows a robotic arm placing a building block.</desc>
   <rect width="1200" height="500" fill="#1d2522" />
   <path d="M64 98H1136" stroke="#3d4943" />
   <text x="64" y="65" fill="#eee9de" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="3">THE VINH NGUYEN TRONG</text>
-  <text x="1136" y="65" text-anchor="end" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2">CONSTRUCTION ROBOTICS</text>
+  <text x="1136" y="65" text-anchor="end" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2">CONSTRUCTION ROBOTICS &amp; AI</text>
   <g font-family="Georgia,'Times New Roman',serif" font-size="65" fill="#eee9de" letter-spacing="-1.8">
     <text x="60" y="208">Innovating for <tspan font-style="italic" fill="#cf9276">people,</tspan></text>
     <text x="60" y="286">building for the <tspan font-style="italic" fill="#cf9276">future.</tspan></text>
   </g>
   <path d="M64 333H116" stroke="#cf9276" stroke-width="2" />
-  <text x="64" y="368" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="17">Better tools. Safer work. Human possibility.</text>
+  <text x="64" y="368" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="17">Student Research Assistant · ICoM, RWTH Aachen</text>
   <g fill="none" stroke="#3d4943" stroke-width="1">
     <path d="M819 404L969 335L1155 395L1005 466Z" />
     <path d="M850 418L1000 346M881 432L1031 356M913 446L1062 366M944 459L1093 376" />
@@ -52,6 +52,6 @@
   <path d="M885 271L889 278L893 271" stroke="#cf9276" stroke-opacity="0.5" fill="none" />
   <rect y="446" width="1200" height="54" fill="#1a211e" />
   <path d="M64 446H1136" stroke="#3d4943" />
-  <text x="64" y="479" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2">AACHEN · RWTH AACHEN</text>
-  <text x="1136" y="479" text-anchor="end" fill="#a6afa7" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic">A future worth building.</text>
+  <text x="64" y="479" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2">CIVIL ENGINEERING · MBA</text>
+  <text x="1136" y="479" text-anchor="end" fill="#a6afa7" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic">Robotics at TUM</text>
 </svg>
