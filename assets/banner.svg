@@ -1,45 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Hi, I'm Vinh.</title>
-  <desc id="desc">Personal profile banner for Vinh Nguyen Trong. AI, robotics, and developer tools. An abstract network connects the words idea, code, and reality.</desc>
-  <defs>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#9faeb0" opacity="0.14" />
-    </pattern>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#b8f2d0" />
-      <stop offset="1" stop-color="#6cbacb" />
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="340" rx="18" fill="#132226" />
-  <rect x="735" y="20" width="445" height="300" rx="12" fill="url(#grid)" />
-  <path d="M0 321H1200" stroke="#7bacaa" stroke-opacity="0.15" />
-  <rect x="55" y="48" width="9" height="9" rx="2" fill="#b8f2d0" />
-  <text x="78" y="57" fill="#b8f2d0" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2.3">THENGUYENTRONG</text>
-  <text x="53" y="165" fill="#f1f4ec" font-family="'Segoe UI',Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Hi, I'm Vinh.</text>
-  <text x="57" y="210" fill="#becac5" font-family="'Segoe UI',Arial,sans-serif" font-size="23">AI, robotics &amp; developer tools.</text>
-  <text x="57" y="286" fill="#8da6a3" font-family="'Segoe UI',Arial,sans-serif" font-size="14" letter-spacing="0.5">AACHEN</text>
-  <circle cx="134" cy="281" r="2" fill="#6d9291" />
-  <text x="147" y="286" fill="#8da6a3" font-family="'Segoe UI',Arial,sans-serif" font-size="14" letter-spacing="0.5">RWTH AACHEN</text>
-  <g fill="none" stroke="#88bcb4" stroke-opacity="0.18">
-    <circle cx="966" cy="169" r="103" />
-    <circle cx="966" cy="169" r="132" />
-    <path d="M780 169H1148M966 29V309" stroke-dasharray="3 7" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Innovating for people, building for the future.</title>
+  <desc id="desc">Vinh Nguyen Trong. Construction robotics. An architectural drawing shows a robotic arm placing a building block. Aachen, RWTH Aachen.</desc>
+  <rect width="1200" height="500" fill="#f4f0e8" />
+  <path d="M64 98H1136" stroke="#dad6cd" />
+  <text x="64" y="65" fill="#242b28" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="3">THE VINH NGUYEN TRONG</text>
+  <text x="1136" y="65" text-anchor="end" fill="#78817b" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2">CONSTRUCTION ROBOTICS</text>
+  <g font-family="Georgia,'Times New Roman',serif" font-size="65" fill="#242b28" letter-spacing="-1.8">
+    <text x="60" y="208">Innovating for <tspan font-style="italic" fill="#b76248">people,</tspan></text>
+    <text x="60" y="286">building for the <tspan font-style="italic" fill="#b76248">future.</tspan></text>
   </g>
-  <path d="M834 106L983 169L1091 254" fill="none" stroke="url(#line)" stroke-width="2" />
-  <path d="M983 169L1078 67M834 106L822 242L1091 254" fill="none" stroke="#6b9799" stroke-opacity="0.35" />
-  <g fill="#132226" stroke="#b8f2d0" stroke-width="2">
-    <circle cx="834" cy="106" r="7" />
-    <circle cx="983" cy="169" r="10" />
-    <circle cx="1091" cy="254" r="7" />
+  <path d="M64 333H116" stroke="#b76248" stroke-width="2" />
+  <text x="64" y="368" fill="#78817b" font-family="'Segoe UI',Arial,sans-serif" font-size="17">Better tools. Safer work. Human possibility.</text>
+  <g fill="none" stroke="#dad6cd" stroke-width="1">
+    <path d="M819 404L969 335L1155 395L1005 466Z" />
+    <path d="M850 418L1000 346M881 432L1031 356M913 446L1062 366M944 459L1093 376" />
+    <path d="M850 390L1036 451M882 376L1068 436M914 361L1100 422M946 347L1132 408" />
+    <path d="M850 377V188L927 153L927 342M850 188L927 214M850 262L927 288" />
+    <path d="M868 379V196M910 355V178" />
   </g>
-  <g fill="#8baaaa">
-    <circle cx="1078" cy="67" r="4" />
-    <circle cx="822" cy="242" r="4" />
+  <g stroke="#78817b" stroke-width="1.2" stroke-linejoin="round">
+    <path d="M969 386L1004 371L1074 394L1039 410Z" fill="#e7e3d9" />
+    <path d="M969 386V396L1039 420V410ZM1039 410L1074 394V404L1039 420" fill="#f4f0e8" />
+    <path d="M1009 385V349L1030 342L1052 350V387L1031 395Z" fill="#e7e3d9" />
+    <path d="M1030 342V380L1052 387M1009 349L1030 357L1052 350" fill="none" />
   </g>
-  <g fill="#cedbd4" font-family="'Segoe UI',Arial,sans-serif" font-size="14" letter-spacing="1">
-    <text x="801" y="84">IDEA</text>
-    <text x="1005" y="174">CODE</text>
-    <text x="1019" y="284">REALITY</text>
+  <g stroke="#b76248" stroke-width="1.8" stroke-linejoin="round">
+    <path d="M1025 352L1082 272L1103 285L1048 367Z" fill="#e7e3d9" />
+    <path d="M1089 274L969 230L960 250L1085 296Z" fill="#e7e3d9" />
+    <path d="M963 236L943 175L961 169L984 236Z" fill="#e7e3d9" />
+    <circle cx="1036" cy="360" r="13" fill="#f4f0e8" />
+    <circle cx="1091" cy="285" r="16" fill="#f4f0e8" />
+    <circle cx="973" cy="240" r="13" fill="#f4f0e8" />
+    <circle cx="952" cy="173" r="10" fill="#f4f0e8" />
+    <path d="M944 168L923 162L920 173L940 179" fill="#e7e3d9" />
+    <path d="M921 163L908 158L906 174L920 180" fill="none" />
   </g>
-  <circle cx="983" cy="169" r="24" fill="none" stroke="#b8f2d0" stroke-opacity="0.2" />
+  <g fill="none" stroke="#b76248" stroke-width="1">
+    <circle cx="1036" cy="360" r="4" />
+    <circle cx="1091" cy="285" r="5" />
+    <circle cx="973" cy="240" r="4" />
+  </g>
+  <g stroke="#78817b" stroke-width="1.2" stroke-linejoin="round">
+    <path d="M869 158L891 147L923 158L900 170Z" fill="#e7e3d9" />
+    <path d="M869 158V184L900 196V170ZM900 170L923 158V184L900 196" fill="#f4f0e8" />
+    <path d="M864 308L888 296L917 306L893 318Z" fill="#e7e3d9" />
+    <path d="M864 308V333L893 344V318ZM893 318L917 306V332L893 344" fill="#f4f0e8" />
+    <path d="M841 344L865 333L893 344L869 355Z" fill="#e7e3d9" />
+    <path d="M841 344V369L869 380V355ZM869 355L893 344V369L869 380" fill="#f4f0e8" />
+  </g>
+  <path d="M889 211V276" stroke="#b76248" stroke-opacity="0.5" stroke-dasharray="3 5" />
+  <path d="M885 271L889 278L893 271" stroke="#b76248" stroke-opacity="0.5" fill="none" />
+  <rect y="446" width="1200" height="54" fill="#f8f5ee" />
+  <path d="M64 446H1136" stroke="#dad6cd" />
+  <text x="64" y="479" fill="#78817b" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2">AACHEN · RWTH AACHEN</text>
+  <text x="1136" y="479" text-anchor="end" fill="#78817b" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic">A future worth building.</text>
 </svg>

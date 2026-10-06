@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Innovating for people, building for the future.</title>
+  <desc id="desc">Vinh Nguyen Trong. Construction robotics. An architectural drawing shows a robotic arm placing a building block. Aachen, RWTH Aachen.</desc>
+  <rect width="1200" height="500" fill="#1d2522" />
+  <path d="M64 98H1136" stroke="#3d4943" />
+  <text x="64" y="65" fill="#eee9de" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="3">THE VINH NGUYEN TRONG</text>
+  <text x="1136" y="65" text-anchor="end" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2">CONSTRUCTION ROBOTICS</text>
+  <g font-family="Georgia,'Times New Roman',serif" font-size="65" fill="#eee9de" letter-spacing="-1.8">
+    <text x="60" y="208">Innovating for <tspan font-style="italic" fill="#cf9276">people,</tspan></text>
+    <text x="60" y="286">building for the <tspan font-style="italic" fill="#cf9276">future.</tspan></text>
+  </g>
+  <path d="M64 333H116" stroke="#cf9276" stroke-width="2" />
+  <text x="64" y="368" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="17">Better tools. Safer work. Human possibility.</text>
+  <g fill="none" stroke="#3d4943" stroke-width="1">
+    <path d="M819 404L969 335L1155 395L1005 466Z" />
+    <path d="M850 418L1000 346M881 432L1031 356M913 446L1062 366M944 459L1093 376" />
+    <path d="M850 390L1036 451M882 376L1068 436M914 361L1100 422M946 347L1132 408" />
+    <path d="M850 377V188L927 153L927 342M850 188L927 214M850 262L927 288" />
+    <path d="M868 379V196M910 355V178" />
+  </g>
+  <g stroke="#a6afa7" stroke-width="1.2" stroke-linejoin="round">
+    <path d="M969 386L1004 371L1074 394L1039 410Z" fill="#29352e" />
+    <path d="M969 386V396L1039 420V410ZM1039 410L1074 394V404L1039 420" fill="#1d2522" />
+    <path d="M1009 385V349L1030 342L1052 350V387L1031 395Z" fill="#29352e" />
+    <path d="M1030 342V380L1052 387M1009 349L1030 357L1052 350" fill="none" />
+  </g>
+  <g stroke="#cf9276" stroke-width="1.8" stroke-linejoin="round">
+    <path d="M1025 352L1082 272L1103 285L1048 367Z" fill="#29352e" />
+    <path d="M1089 274L969 230L960 250L1085 296Z" fill="#29352e" />
+    <path d="M963 236L943 175L961 169L984 236Z" fill="#29352e" />
+    <circle cx="1036" cy="360" r="13" fill="#1d2522" />
+    <circle cx="1091" cy="285" r="16" fill="#1d2522" />
+    <circle cx="973" cy="240" r="13" fill="#1d2522" />
+    <circle cx="952" cy="173" r="10" fill="#1d2522" />
+    <path d="M944 168L923 162L920 173L940 179" fill="#29352e" />
+    <path d="M921 163L908 158L906 174L920 180" fill="none" />
+  </g>
+  <g fill="none" stroke="#cf9276" stroke-width="1">
+    <circle cx="1036" cy="360" r="4" />
+    <circle cx="1091" cy="285" r="5" />
+    <circle cx="973" cy="240" r="4" />
+  </g>
+  <g stroke="#a6afa7" stroke-width="1.2" stroke-linejoin="round">
+    <path d="M869 158L891 147L923 158L900 170Z" fill="#29352e" />
+    <path d="M869 158V184L900 196V170ZM900 170L923 158V184L900 196" fill="#1d2522" />
+    <path d="M864 308L888 296L917 306L893 318Z" fill="#29352e" />
+    <path d="M864 308V333L893 344V318ZM893 318L917 306V332L893 344" fill="#1d2522" />
+    <path d="M841 344L865 333L893 344L869 355Z" fill="#29352e" />
+    <path d="M841 344V369L869 380V355ZM869 355L893 344V369L869 380" fill="#1d2522" />
+  </g>
+  <path d="M889 211V276" stroke="#cf9276" stroke-opacity="0.5" stroke-dasharray="3 5" />
+  <path d="M885 271L889 278L893 271" stroke="#cf9276" stroke-opacity="0.5" fill="none" />
+  <rect y="446" width="1200" height="54" fill="#1a211e" />
+  <path d="M64 446H1136" stroke="#3d4943" />
+  <text x="64" y="479" fill="#a6afa7" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2">AACHEN · RWTH AACHEN</text>
+  <text x="1136" y="479" text-anchor="end" fill="#a6afa7" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic">A future worth building.</text>
+</svg>
