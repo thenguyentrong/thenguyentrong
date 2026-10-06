@@ -1,13 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=icom" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg?v=icom" />
-  <img alt="Vinh Nguyen Trong — Innovating for people, building for the future. Construction Robotics &amp; AI. Student Research Assistant at ICoM, RWTH Aachen. Civil Engineering · MBA · Robotics at TUM." src="assets/banner.svg?v=icom" width="100%" />
-</picture>
+<img alt="Vinh Nguyen Trong — Innovating for people, building for the future. Construction Robotics &amp; AI. RWTH Aachen. Civil Engineering · MBA · Robotics at TUM." src="assets/header-ctrl.gif" width="100%" />
 
 <br />
 
-I’m **Vinh**, a **Student Research Assistant at ICoM, RWTH Aachen**, focused on **Construction Robotics & AI**.
+I’m **Vinh**, focused on **Construction Robotics & AI**.
 
-**Civil Engineering** · **MBA** · **Robotics at TUM**
+**RWTH Aachen** · **Civil Engineering** · **MBA** · **Robotics at TUM**
 
 My vision is to make building safer and demanding work easier—so people have more room to create, solve problems, and shape what comes next.
